@@ -1,5 +1,5 @@
 ## Earth_Engine_Scripts
-A repository for the SnowCloudMetrics javascript-based scripts that can be used with the Google Earth Engine user interface.
+A repository for the SnowCloudMetrics javascript-based scripts that can be used with the Google Earth Engine web-based code editor.
 
 ### snow_metrics_2020_toAsset.txt
 This file is the primary script that generates the SCF and SDD metrics. 
